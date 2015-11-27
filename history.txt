@@ -1,0 +1,22 @@
+    1  touch file
+    2  nano file
+    3  cat file
+    4  cd ~/Desktop
+    5  cp ~/file ~/Desktop
+    6  mv ~/file ~/Desktop/newfile
+    7  rm file
+    8  mkdir filefloder
+    9  mkdir folder
+   10  cp -r folder ~/Desktop/filefloder
+   11  mv -r folder ~/Desktop/filefloder
+   12  mv -r folder ~/Desktop/filefloder/newmoev
+   13  mv -r filefloder folder
+   14  rm -r folder
+   15  nano newfile
+   16  cat newfile
+   17  head -3 newfile
+   18  tail -3 newfile
+   19  grep "r" newfile
+   20  grep "r" newfile > ~/Desktop/find_r.txt
+   21  history
+   22  history > history.txt
